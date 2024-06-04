@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=3 uid="uid://b4g8pwnmmb56y"]
+
+[ext_resource type="Texture2D" uid="uid://dlpelgb56wnpt" path="res://icon.svg" id="1_nomtp"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="GDExample" type="GDExample" parent="."]
+position = Vector2(19.6227, 11.8496)
+texture = ExtResource("1_nomtp")
+flip_h = true
